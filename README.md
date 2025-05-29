@@ -1,0 +1,3 @@
+Entrega del segundo examen parcial de Robótica (2025-2, grupo 1)
+El archivo se planteó a partir de la plantilla proporcionada por el Ing. Erik Peña Medina (profesor de la Facultad de Ingeniería de la Universidad Nacional Autónoma de México) en el cual se desarrollaron los puntos establecidos en clase. Se trata de la implementación de una trayectoria para un robot SCARA en un entorno virtual, la simulación se realizó en Rviz.
+El equipo que realizó este trabajo está conformado únicamente por Cortez Peralta Rafael y Hernández Reyes Luis Fernando, desconocemos cualquier otra reproducción del mismo ya que la aportación de otros compañeros del equipo fue prácticamente nula y agregaron nombres a la lista sin consultarnos.
